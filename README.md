@@ -124,7 +124,7 @@ Se encuntra en un repositorio de Docker Hub que es:
   ![imagen](https://github.com/Juc28/AREP_LAB05/assets/118181224/7cfd8297-cc79-460b-b9f9-4f21b8e9d4f5)
 
 
-+ Abre tu navegador web favorito e ingresa la dirección y depende cual comado se uso cambia el pueto:
++ Abre tu navegador web favorito e ingresa la dirección y depende cual comado se uso cambia el puerto:
   ```
   http://localhost:34000/formulario
   ```
